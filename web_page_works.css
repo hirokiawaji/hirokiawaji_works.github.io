@@ -78,8 +78,8 @@ h1{
   padding-bottom:50px;
 
 }
-.work1,.work2,.work3,.work4,.work5{
-  border-bottom:dashed 0.5px;
+.work1,.work2,.work3,.work4,.work5,.work6{
+  border-bottom:dashed 1px;
 }
 @media(max-width:1000px){
   .header-list{
