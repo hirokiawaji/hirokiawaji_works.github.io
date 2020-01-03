@@ -68,6 +68,10 @@
 .main a:hover{
   color:gray;
 }
+.main a{
+  color:black;
+  text-decoration: none;
+}
 h1{
   margin-left: 30px;
   font-family:"Palatino Linotype";
