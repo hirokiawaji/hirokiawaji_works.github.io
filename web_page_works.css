@@ -71,6 +71,7 @@
 .main a{
   color:black;
   text-decoration: none;
+  font-weight:bold;
 }
 h1{
   margin-left: 30px;
