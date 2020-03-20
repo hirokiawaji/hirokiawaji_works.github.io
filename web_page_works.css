@@ -49,6 +49,10 @@
   text-decoration: none;
   color:black;
 }
+.notes{
+  text-decoration: none;
+  color:black;
+}
 .works{
   text-decoration: none;
   font-weight:bold;
@@ -63,6 +67,9 @@
   color:gray;
 }
 .profile:hover{
+  color:gray;
+}
+.notes:hover{
   color:gray;
 }
 .main a:hover{
