@@ -19,7 +19,8 @@
   display:inline-block;
   font-family:serif;
   font-weight:bold;
-  margin-left:48px;
+  margin-left:30px;
+  font-size:48px;
 }
 .header{
   height:50px;
@@ -107,8 +108,8 @@ h1{
   padding-bottom:50px;
 
 }
-.work1,.work2,.work3,.work4,.work6,.work7,.work8,.work9.work10,.work11,.work12,.work13,.work14,.work15,.work16{
-  border-bottom:dashed 1px;
+.main ul{
+  border-bottom:dashed 2px;
 }
 .title{
   font-family:serif;
